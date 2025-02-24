@@ -1,0 +1,1 @@
+This repo hold files which contain codes to high level programming languages and test files that can also be executed, take into consideration that this is just in its test face. Any and everything you see here is backed by copyright so i highly recommend you dont attempt copying and editing it.
